@@ -18,7 +18,7 @@
 
 ***
 
-## Introduction
+## Introduction 
 
 It is time to practice building out your own class for retrieving remote data.
 In this lab, you are tasked with building a generic `GetRequester` class. This
